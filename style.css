@@ -25,7 +25,7 @@ h2{
     width: 600px;
     text-align: center;
     box-shadow: rgba(0, 0, 0, 0.1) 0 0 20px;
-    border: 2px solid #aaa;
+    border: 1px solid #aaa;
 }
 
 .card .avatar{
